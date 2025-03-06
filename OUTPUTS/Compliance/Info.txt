@@ -1,5 +1,5 @@
 SKU: 333114
 Full product name: VOC sensor MQ138 breakout
 Country of origin: Croatia
-HS tariff code: 85389099
-EAN/UPC barcode: 
+HS tariff code: 85340090
+EAN/UPC barcode: 732388667000
